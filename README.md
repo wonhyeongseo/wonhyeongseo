@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently using ...
+* Python / C++
+* AWS / GCP
+* Pytorch
+
+- 🌱 I’m currently learning ...
+* Go
+* K8S / Anthos
+* NLP
+
 <!--
 **wonhyeongseo/wonhyeongseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
