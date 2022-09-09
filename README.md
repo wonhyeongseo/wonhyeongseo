@@ -1,14 +1,17 @@
 ### Hi there 👋
 
 - 🔭 I’m currently using ...
-* Python / C++
+* Python / C++ / TypeScript
 * AWS / GCP
 * Pytorch
 
 - 🌱 I’m currently learning ...
 * Go
-* K8S / Anthos
+* K8S / Anthos / Azure
 * NLP
+
+- ⚡ Fun fact: ...
+* Türkçe anlıyorum
 
 <!--
 **wonhyeongseo/wonhyeongseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
