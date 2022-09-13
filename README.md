@@ -13,6 +13,8 @@
 - ⚡ Fun fact: ...
   * Türkçe anlıyorum
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=wonhyeongseo)](https://git.io/streak-stats)
+
 <!--
 **wonhyeongseo/wonhyeongseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
