@@ -1,3 +1,4 @@
+[![@wseo's Holopin board](https://holopin.io/api/user/board?user=wseo)](https://holopin.io/@wseo)
 ### Hi there 👋
 
 - 🔭 I’m currently using ...
@@ -12,9 +13,6 @@
 
 - ⚡ Fun fact: ...
   * Türkçe anlıyorum
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=wonhyeongseo)](https://git.io/streak-stats)
-[![@wseo's Holopin board](https://holopin.io/api/user/board?user=wseo)](https://holopin.io/@wseo)
 
 <!--
 **wonhyeongseo/wonhyeongseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
