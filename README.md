@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black"/></a>&nbsp
 </p>
 
-### Hit Count
+### 💥 Hit Count 💥
 
 <div align="center" style="text-align:center">
 
