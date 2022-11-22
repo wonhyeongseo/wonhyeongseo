@@ -17,6 +17,7 @@
   
 </p>
 <br><br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+repo!;I+am+a+developer;My+passion+is+deep+learning;)
 
 ### Hi there 👋 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://notion.so) [![Blog](https://img.shields.io/badge/Blog-22cc44?style=flat-square&logo=blogger&logoColor=white)](https://won.hashnode.dev/)
