@@ -15,7 +15,10 @@
   * NLP
 
 - ⚡ Fun fact: ...
-  * Türkçe anlıyorum
+  * Current [AWS AI&ML Scholar](https://www.youtube.com/watch?v=nhda21qxl3A&t=2s) 🌐
+  * Google ML Bootcamp graduate (3rd cohort of Korea) ⭐
+  * Türkçe anlıyorum ☪️
+  * I grow plants hydroponically 🌿
 <!--
 **wonhyeongseo/wonhyeongseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
